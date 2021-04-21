@@ -1,8 +1,0 @@
-E:\ePay\HRISONE\04 Source\Working\Code\ASP.NET\EMS\Framework\EMS.Entities\bin\Debug\netcoreapp3.1\EMS.Entities.deps.json
-E:\ePay\HRISONE\04 Source\Working\Code\ASP.NET\EMS\Framework\EMS.Entities\bin\Debug\netcoreapp3.1\EMS.Entities.dll
-E:\ePay\HRISONE\04 Source\Working\Code\ASP.NET\EMS\Framework\EMS.Entities\bin\Debug\netcoreapp3.1\EMS.Entities.pdb
-E:\ePay\HRISONE\04 Source\Working\Code\ASP.NET\EMS\Framework\EMS.Entities\obj\Debug\netcoreapp3.1\EMS.Entities.AssemblyInfoInputs.cache
-E:\ePay\HRISONE\04 Source\Working\Code\ASP.NET\EMS\Framework\EMS.Entities\obj\Debug\netcoreapp3.1\EMS.Entities.AssemblyInfo.cs
-E:\ePay\HRISONE\04 Source\Working\Code\ASP.NET\EMS\Framework\EMS.Entities\obj\Debug\netcoreapp3.1\EMS.Entities.csproj.CoreCompileInputs.cache
-E:\ePay\HRISONE\04 Source\Working\Code\ASP.NET\EMS\Framework\EMS.Entities\obj\Debug\netcoreapp3.1\EMS.Entities.dll
-E:\ePay\HRISONE\04 Source\Working\Code\ASP.NET\EMS\Framework\EMS.Entities\obj\Debug\netcoreapp3.1\EMS.Entities.pdb
