@@ -1,3 +1,1 @@
-﻿Scaffold-DbContext "Server=172.29.57.140;Database=Test;user=sa;password=Microsoft@1234" Microsoft.EntityFrameworkCore.SqlServer -Schemas Test  -Context HRISContext -o Models -ContextDir Context -Force -NoPluralize
-
-Scaffold-DbContext "Server=172.29.57.140;Database=HRIS1;user=sa;password=Microsoft@1234" Microsoft.EntityFrameworkCore.SqlServer -Tables dbo.Sec_User,dbo.Gen_empMaster  -Context HRISContext -o Models --context-dir Context
+﻿Scaffold-DbContext "Host=172.29.57.203;Database=postgres;Username=postgres;Password=Microsoft@1234" Npgsql.EntityFrameworkCore.PostgreSQL -Schemas test  -Context HRISContext -o Models -ContextDir Context -Force -NoPluralize
