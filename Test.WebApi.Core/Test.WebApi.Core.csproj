@@ -1,0 +1,39 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup Label="Globals">
+    <SccProjectName>SAK</SccProjectName>
+    <SccProvider>SAK</SccProvider>
+    <SccAuxPath>SAK</SccAuxPath>
+    <SccLocalPath>SAK</SccLocalPath>
+  </PropertyGroup>
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Test.WebApi.Core.csproj.vspscc" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="FluentValidation" Version="9.3.0" />
+    <PackageReference Include="FluentValidation.AspNetCore" Version="9.3.0" />
+    <PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="3.1.11" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="5.0.0" />
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="5.6.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Framework\Test.Core\Test.Core.csproj" />
+    <ProjectReference Include="..\Framework\Test.Data\Test.Data.csproj" />
+    <ProjectReference Include="..\Framework\Test.Entities\Test.Entities.csproj" />
+    <ProjectReference Include="..\Framework\Test.Services\Test.Services.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="Generic.Core">
+      <HintPath>..\Framework\Test.Core\Dll\Generic.Core.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

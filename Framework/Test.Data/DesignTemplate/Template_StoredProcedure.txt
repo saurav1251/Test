@@ -1,0 +1,30 @@
+﻿/*=============================================
+Author:		Saurav Sarkar
+Create date: 16-Sep-2020
+Description:	Get Wedding Details
+EXEC [DECL].[PROC_WeddeingDeclaration] @LoginID=24965, @Mode='GetWeddingDeclarationList'
+,@Xml=''
+=============================================*/
+Create PROCEDURE [DECL].[PROC_WeddingDeclaration]
+@PageNo INT = 1,
+@PageSize INT = 100000, --default 10
+@LoginID BIGINT = 0,
+@Mode Varchar(128)='GetWeddingDeclarationList',
+@Xml xml = null
+AS
+BEGIN
+	IF @Mode='GetWeddingDeclarationList'
+	BEGIN
+		Select	WED.*, EMP.empM_Name, C_EMP.empM_Name, M_EMP.empM_Name
+		from	[DECL].[Tbl_WeddigDeclaration] WED WITH(NOLOCK)
+				JOIN [SYN_GlobalECDM_EmpDetail] EMP WITH(NOLOCK) ON WED.EmployeeID=EMP.EmployeeID
+				LEFT JOIN [SYN_GlobalECDM_EmpDetail] C_EMP WITH(NOLOCK) ON WED.CreatedBy=C_EMP.EmployeeID
+				LEFT JOIN [SYN_GlobalECDM_EmpDetail] M_EMP WITH(NOLOCK) ON WED.ModifiedBy=M_EMP.EmployeeID
+		Where   WED.EmployeeId=@LoginID
+		Order   By WED.CreatedOn desc, WED.ID
+		OFFSET (@PageNo-1)*@PageSize ROWS
+		FETCH NEXT @PageSize ROWS ONLY
+	END
+END
+
+

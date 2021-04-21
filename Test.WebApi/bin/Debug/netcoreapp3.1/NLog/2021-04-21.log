@@ -1,0 +1,11 @@
+{ "time": "2021-04-21 12:45:55.7266", "level": "DEBUG", "StackTrace": { "message": "User [test] logged in the system." } }
+{ "time": "2021-04-21 12:46:06.6153", "level": "DEBUG", "StackTrace": { "message": "User [test] logged in the system." } }
+{ "time": "2021-04-21 12:46:16.4673", "level": "DEBUG", "StackTrace": { "message": "User [test] logged in the system." } }
+{ "time": "2021-04-21 12:46:29.5185", "level": "DEBUG", "StackTrace": { "message": "User [test] logged in the system." } }
+{ "time": "2021-04-21 18:43:03.9454", "level": "DEBUG", "StackTrace": { "message": "User [test] logged in the system." } }
+{ "time": "2021-04-21 18:44:09.5249", "level": "DEBUG", "StackTrace": { "message": "User [test] logged in the system." } }
+{ "time": "2021-04-21 18:45:27.6156", "level": "DEBUG", "StackTrace": { "message": "User [test] logged in the system." } }
+{ "time": "2021-04-21 18:47:49.2556", "level": "DEBUG", "StackTrace": { "message": "User [test] logged in the system." } }
+{ "time": "2021-04-21 18:54:37.1892", "level": "DEBUG", "StackTrace": { "message": "User [test] logged in the system." } }
+{ "time": "2021-04-21 19:07:09.1545", "level": "DEBUG", "StackTrace": { "message": "User [test] logged in the system." } }
+{ "time": "2021-04-21 19:08:01.4705", "level": "DEBUG", "StackTrace": { "message": "User [test] logged in the system." } }

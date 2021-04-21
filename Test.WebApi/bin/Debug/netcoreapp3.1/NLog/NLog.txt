@@ -1,0 +1,94 @@
+2021-02-09 13:19:22.2510 Info Message Template Auto Format enabled
+2021-02-09 13:19:22.3215 Info Adding target FileTarget(Name=logfile)
+2021-02-09 13:19:22.3571 Info Validating config: TargetNames=logfile, ConfigItems=23, FilePath=E:\test\Test\Test.WebApi\bin\Debug\netcoreapp3.1\NLog.config
+2021-02-09 13:19:22.3794 Info Configuration initialized.
+2021-02-09 13:19:22.4310 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.5.12092. Product version: 4.7.5+ed343d5690d9c97a96fcff430e240e2d7c31a8d7. GlobalAssemblyCache: False
+2021-02-09 13:22:24.9528 Info Message Template Auto Format enabled
+2021-02-09 13:22:25.0130 Info Adding target FileTarget(Name=logfile)
+2021-02-09 13:22:25.0479 Info Validating config: TargetNames=logfile, ConfigItems=23, FilePath=E:\test\Test\Test.WebApi\bin\Debug\netcoreapp3.1\NLog.config
+2021-02-09 13:22:25.0793 Info Configuration initialized.
+2021-02-09 13:22:25.1028 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.5.12092. Product version: 4.7.5+ed343d5690d9c97a96fcff430e240e2d7c31a8d7. GlobalAssemblyCache: False
+2021-02-16 16:02:01.7391 Info Message Template Auto Format enabled
+2021-02-16 16:02:01.8195 Info Adding target FileTarget(Name=logfile)
+2021-02-16 16:02:01.8597 Info Validating config: TargetNames=logfile, ConfigItems=23, FilePath=E:\test\Test\Test.WebApi\bin\Debug\netcoreapp3.1\NLog.config
+2021-02-16 16:02:01.8906 Info Configuration initialized.
+2021-02-16 16:02:01.9096 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.5.12092. Product version: 4.7.5+ed343d5690d9c97a96fcff430e240e2d7c31a8d7. GlobalAssemblyCache: False
+2021-02-16 16:13:13.5039 Info AppDomain Shutting down. Logger closing...
+2021-02-16 16:13:13.5202 Info Logger has been shut down.
+2021-02-16 16:14:00.8529 Info Message Template Auto Format enabled
+2021-02-16 16:14:00.9130 Info Adding target FileTarget(Name=logfile)
+2021-02-16 16:14:00.9427 Info Validating config: TargetNames=logfile, ConfigItems=23, FilePath=E:\test\Test\Test.WebApi\bin\Debug\netcoreapp3.1\NLog.config
+2021-02-16 16:14:00.9620 Info Configuration initialized.
+2021-02-16 16:14:00.9743 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.5.12092. Product version: 4.7.5+ed343d5690d9c97a96fcff430e240e2d7c31a8d7. GlobalAssemblyCache: False
+2021-02-16 16:14:55.8624 Info AppDomain Shutting down. Logger closing...
+2021-02-16 16:14:55.8813 Info Logger has been shut down.
+2021-02-16 16:17:22.3738 Info Message Template Auto Format enabled
+2021-02-16 16:17:22.4469 Info Adding target FileTarget(Name=logfile)
+2021-02-16 16:17:22.4819 Info Validating config: TargetNames=logfile, ConfigItems=23, FilePath=E:\test\Test\Test.WebApi\bin\Debug\netcoreapp3.1\NLog.config
+2021-02-16 16:17:22.5065 Info Configuration initialized.
+2021-02-16 16:17:22.5290 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.5.12092. Product version: 4.7.5+ed343d5690d9c97a96fcff430e240e2d7c31a8d7. GlobalAssemblyCache: False
+2021-02-16 16:23:16.0827 Info Message Template Auto Format enabled
+2021-02-16 16:23:16.1513 Info Adding target FileTarget(Name=logfile)
+2021-02-16 16:23:16.1841 Info Validating config: TargetNames=logfile, ConfigItems=23, FilePath=E:\test\Test\Test.WebApi\bin\Debug\netcoreapp3.1\NLog.config
+2021-02-16 16:23:16.2050 Info Configuration initialized.
+2021-02-16 16:23:16.2262 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.5.12092. Product version: 4.7.5+ed343d5690d9c97a96fcff430e240e2d7c31a8d7. GlobalAssemblyCache: False
+2021-02-16 16:52:19.0047 Info Message Template Auto Format enabled
+2021-02-16 16:52:19.0752 Info Adding target FileTarget(Name=logfile)
+2021-02-16 16:52:19.1093 Info Validating config: TargetNames=logfile, ConfigItems=23, FilePath=E:\test\Test\Test.WebApi\bin\Debug\netcoreapp3.1\NLog.config
+2021-02-16 16:52:19.1300 Info Configuration initialized.
+2021-02-16 16:52:19.1503 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.5.12092. Product version: 4.7.5+ed343d5690d9c97a96fcff430e240e2d7c31a8d7. GlobalAssemblyCache: False
+2021-02-18 18:17:29.6333 Info Message Template Auto Format enabled
+2021-02-18 18:17:29.7172 Info Adding target FileTarget(Name=logfile)
+2021-02-18 18:17:29.7602 Info Validating config: TargetNames=logfile, ConfigItems=23, FilePath=E:\test\Test\Test.WebApi\bin\Debug\netcoreapp3.1\NLog.config
+2021-02-18 18:17:29.7843 Info Configuration initialized.
+2021-02-18 18:17:29.8119 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.5.12092. Product version: 4.7.5+ed343d5690d9c97a96fcff430e240e2d7c31a8d7. GlobalAssemblyCache: False
+2021-04-20 21:09:17.2832 Info Message Template Auto Format enabled
+2021-04-20 21:09:17.3542 Info Adding target FileTarget(Name=logfile)
+2021-04-20 21:09:17.3859 Info Validating config: TargetNames=logfile, ConfigItems=23, FilePath=E:\test\Test\Test.WebApi\bin\Debug\netcoreapp3.1\NLog.config
+2021-04-20 21:09:17.4059 Info Configuration initialized.
+2021-04-20 21:09:17.4639 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.5.12092. Product version: 4.7.5+ed343d5690d9c97a96fcff430e240e2d7c31a8d7. GlobalAssemblyCache: False
+2021-04-20 21:14:39.2542 Info Message Template Auto Format enabled
+2021-04-20 21:14:39.3047 Info Adding target FileTarget(Name=logfile)
+2021-04-20 21:14:39.3369 Info Validating config: TargetNames=logfile, ConfigItems=23, FilePath=E:\test\Test\Test.WebApi\bin\Debug\netcoreapp3.1\NLog.config
+2021-04-20 21:14:39.3545 Info Configuration initialized.
+2021-04-20 21:14:39.3727 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.5.12092. Product version: 4.7.5+ed343d5690d9c97a96fcff430e240e2d7c31a8d7. GlobalAssemblyCache: False
+2021-04-20 23:41:51.9032 Info Message Template Auto Format enabled
+2021-04-20 23:41:51.9974 Info Adding target FileTarget(Name=logfile)
+2021-04-20 23:41:52.0430 Info Validating config: TargetNames=logfile, ConfigItems=23, FilePath=E:\test\Test\Test.WebApi\bin\Debug\netcoreapp3.1\NLog.config
+2021-04-20 23:41:52.0755 Info Configuration initialized.
+2021-04-20 23:41:52.1113 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.5.12092. Product version: 4.7.5+ed343d5690d9c97a96fcff430e240e2d7c31a8d7. GlobalAssemblyCache: False
+2021-04-21 00:22:26.8826 Info Message Template Auto Format enabled
+2021-04-21 00:22:26.9924 Info Adding target FileTarget(Name=logfile)
+2021-04-21 00:22:27.0420 Info Validating config: TargetNames=logfile, ConfigItems=23, FilePath=E:\test\Test\Test.WebApi\bin\Debug\netcoreapp3.1\NLog.config
+2021-04-21 00:22:27.0737 Info Configuration initialized.
+2021-04-21 00:22:27.1122 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.5.12092. Product version: 4.7.5+ed343d5690d9c97a96fcff430e240e2d7c31a8d7. GlobalAssemblyCache: False
+2021-04-21 10:50:40.3802 Info Message Template Auto Format enabled
+2021-04-21 10:50:40.5521 Info Adding target FileTarget(Name=logfile)
+2021-04-21 10:50:40.6352 Info Validating config: TargetNames=logfile, ConfigItems=23, FilePath=E:\test\Test\Test.WebApi\bin\Debug\netcoreapp3.1\NLog.config
+2021-04-21 10:50:40.6887 Info Configuration initialized.
+2021-04-21 10:50:40.7867 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.5.12092. Product version: 4.7.5+ed343d5690d9c97a96fcff430e240e2d7c31a8d7. GlobalAssemblyCache: False
+2021-04-21 11:51:11.9215 Info Message Template Auto Format enabled
+2021-04-21 11:51:12.0027 Info Adding target FileTarget(Name=logfile)
+2021-04-21 11:51:12.0459 Info Validating config: TargetNames=logfile, ConfigItems=23, FilePath=E:\test\Test\Test.WebApi\bin\Debug\netcoreapp3.1\NLog.config
+2021-04-21 11:51:12.0766 Info Configuration initialized.
+2021-04-21 11:51:12.1031 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.5.12092. Product version: 4.7.5+ed343d5690d9c97a96fcff430e240e2d7c31a8d7. GlobalAssemblyCache: False
+2021-04-21 12:45:12.4486 Info Message Template Auto Format enabled
+2021-04-21 12:45:12.6004 Info Adding target FileTarget(Name=logfile)
+2021-04-21 12:45:12.6691 Info Validating config: TargetNames=logfile, ConfigItems=23, FilePath=E:\test\Test\Test.WebApi\bin\Debug\netcoreapp3.1\NLog.config
+2021-04-21 12:45:12.7096 Info Configuration initialized.
+2021-04-21 12:45:12.7532 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.5.12092. Product version: 4.7.5+ed343d5690d9c97a96fcff430e240e2d7c31a8d7. GlobalAssemblyCache: False
+2021-04-21 18:42:24.7540 Info Message Template Auto Format enabled
+2021-04-21 18:42:24.8424 Info Adding target FileTarget(Name=logfile)
+2021-04-21 18:42:24.8959 Info Validating config: TargetNames=logfile, ConfigItems=23, FilePath=E:\test\Test\Test.WebApi\bin\Debug\netcoreapp3.1\NLog.config
+2021-04-21 18:42:24.9212 Info Configuration initialized.
+2021-04-21 18:42:24.9478 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.5.12092. Product version: 4.7.5+ed343d5690d9c97a96fcff430e240e2d7c31a8d7. GlobalAssemblyCache: False
+2021-04-21 18:47:21.0181 Info Message Template Auto Format enabled
+2021-04-21 18:47:21.1844 Info Adding target FileTarget(Name=logfile)
+2021-04-21 18:47:21.2662 Info Validating config: TargetNames=logfile, ConfigItems=23, FilePath=E:\test\Test\Test.WebApi\bin\Debug\netcoreapp3.1\NLog.config
+2021-04-21 18:47:21.3419 Info Configuration initialized.
+2021-04-21 18:47:21.3981 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.5.12092. Product version: 4.7.5+ed343d5690d9c97a96fcff430e240e2d7c31a8d7. GlobalAssemblyCache: False
+2021-04-21 19:06:39.9154 Info Message Template Auto Format enabled
+2021-04-21 19:06:40.0203 Info Adding target FileTarget(Name=logfile)
+2021-04-21 19:06:40.0662 Info Validating config: TargetNames=logfile, ConfigItems=23, FilePath=E:\test\Test\Test.WebApi\bin\Debug\netcoreapp3.1\NLog.config
+2021-04-21 19:06:40.0946 Info Configuration initialized.
+2021-04-21 19:06:40.1307 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.5.12092. Product version: 4.7.5+ed343d5690d9c97a96fcff430e240e2d7c31a8d7. GlobalAssemblyCache: False

@@ -1,0 +1,17 @@
+E:\ePay\HRISONE\04 Source\Working\Code\ASP.NET\EMS\Framework\EMS.Services\bin\Debug\netcoreapp3.1\EMS.Services.deps.json
+E:\ePay\HRISONE\04 Source\Working\Code\ASP.NET\EMS\Framework\EMS.Services\bin\Debug\netcoreapp3.1\EMS.Services.dll
+E:\ePay\HRISONE\04 Source\Working\Code\ASP.NET\EMS\Framework\EMS.Services\bin\Debug\netcoreapp3.1\EMS.Services.pdb
+E:\ePay\HRISONE\04 Source\Working\Code\ASP.NET\EMS\Framework\EMS.Services\bin\Debug\netcoreapp3.1\EMS.Core.dll
+E:\ePay\HRISONE\04 Source\Working\Code\ASP.NET\EMS\Framework\EMS.Services\bin\Debug\netcoreapp3.1\EMS.Data.dll
+E:\ePay\HRISONE\04 Source\Working\Code\ASP.NET\EMS\Framework\EMS.Services\bin\Debug\netcoreapp3.1\EMS.Entities.dll
+E:\ePay\HRISONE\04 Source\Working\Code\ASP.NET\EMS\Framework\EMS.Services\bin\Debug\netcoreapp3.1\Generic.Core.dll
+E:\ePay\HRISONE\04 Source\Working\Code\ASP.NET\EMS\Framework\EMS.Services\bin\Debug\netcoreapp3.1\EMS.Core.pdb
+E:\ePay\HRISONE\04 Source\Working\Code\ASP.NET\EMS\Framework\EMS.Services\bin\Debug\netcoreapp3.1\EMS.Data.pdb
+E:\ePay\HRISONE\04 Source\Working\Code\ASP.NET\EMS\Framework\EMS.Services\bin\Debug\netcoreapp3.1\EMS.Entities.pdb
+E:\ePay\HRISONE\04 Source\Working\Code\ASP.NET\EMS\Framework\EMS.Services\obj\Debug\netcoreapp3.1\EMS.Services.csprojAssemblyReference.cache
+E:\ePay\HRISONE\04 Source\Working\Code\ASP.NET\EMS\Framework\EMS.Services\obj\Debug\netcoreapp3.1\EMS.Services.AssemblyInfoInputs.cache
+E:\ePay\HRISONE\04 Source\Working\Code\ASP.NET\EMS\Framework\EMS.Services\obj\Debug\netcoreapp3.1\EMS.Services.AssemblyInfo.cs
+E:\ePay\HRISONE\04 Source\Working\Code\ASP.NET\EMS\Framework\EMS.Services\obj\Debug\netcoreapp3.1\EMS.Services.csproj.CoreCompileInputs.cache
+E:\ePay\HRISONE\04 Source\Working\Code\ASP.NET\EMS\Framework\EMS.Services\obj\Debug\netcoreapp3.1\EMS.Services.csproj.CopyComplete
+E:\ePay\HRISONE\04 Source\Working\Code\ASP.NET\EMS\Framework\EMS.Services\obj\Debug\netcoreapp3.1\EMS.Services.dll
+E:\ePay\HRISONE\04 Source\Working\Code\ASP.NET\EMS\Framework\EMS.Services\obj\Debug\netcoreapp3.1\EMS.Services.pdb

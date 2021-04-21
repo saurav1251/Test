@@ -1,0 +1,13 @@
+E:\ePay\HRISONE\04 Source\Working\Code\ASP.NET\EMS\Framework\EMS.Core\bin\Debug\netcoreapp3.1\EMS.Core.deps.json
+E:\ePay\HRISONE\04 Source\Working\Code\ASP.NET\EMS\Framework\EMS.Core\bin\Debug\netcoreapp3.1\EMS.Core.dll
+E:\ePay\HRISONE\04 Source\Working\Code\ASP.NET\EMS\Framework\EMS.Core\bin\Debug\netcoreapp3.1\EMS.Core.pdb
+E:\ePay\HRISONE\04 Source\Working\Code\ASP.NET\EMS\Framework\EMS.Core\bin\Debug\netcoreapp3.1\EMS.Entities.dll
+E:\ePay\HRISONE\04 Source\Working\Code\ASP.NET\EMS\Framework\EMS.Core\bin\Debug\netcoreapp3.1\Generic.Core.dll
+E:\ePay\HRISONE\04 Source\Working\Code\ASP.NET\EMS\Framework\EMS.Core\bin\Debug\netcoreapp3.1\EMS.Entities.pdb
+E:\ePay\HRISONE\04 Source\Working\Code\ASP.NET\EMS\Framework\EMS.Core\obj\Debug\netcoreapp3.1\EMS.Core.csprojAssemblyReference.cache
+E:\ePay\HRISONE\04 Source\Working\Code\ASP.NET\EMS\Framework\EMS.Core\obj\Debug\netcoreapp3.1\EMS.Core.AssemblyInfoInputs.cache
+E:\ePay\HRISONE\04 Source\Working\Code\ASP.NET\EMS\Framework\EMS.Core\obj\Debug\netcoreapp3.1\EMS.Core.AssemblyInfo.cs
+E:\ePay\HRISONE\04 Source\Working\Code\ASP.NET\EMS\Framework\EMS.Core\obj\Debug\netcoreapp3.1\EMS.Core.csproj.CoreCompileInputs.cache
+E:\ePay\HRISONE\04 Source\Working\Code\ASP.NET\EMS\Framework\EMS.Core\obj\Debug\netcoreapp3.1\EMS.Core.csproj.CopyComplete
+E:\ePay\HRISONE\04 Source\Working\Code\ASP.NET\EMS\Framework\EMS.Core\obj\Debug\netcoreapp3.1\EMS.Core.dll
+E:\ePay\HRISONE\04 Source\Working\Code\ASP.NET\EMS\Framework\EMS.Core\obj\Debug\netcoreapp3.1\EMS.Core.pdb

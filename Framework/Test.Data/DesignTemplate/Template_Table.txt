@@ -1,0 +1,13 @@
+﻿CREATE TABLE [DECL].[Tbl_WeddingDeclaration](
+	[Id] [bigint] IDENTITY(1,1) NOT NULL Constraint PK_WeddingDeclaration_ID Primary(Id),
+	[EmployeeId] [bigint] NOT NULL Constraint UQ_WeddingDeclaration_ID Unique(EmployeeId,WeddingDate),
+	[WeddingDate] [date] NULL,
+	[SpouseName] [nvarchar](300) NULL,
+	[SpouseGender] [char](1) NULL,
+	[SpouseDOB] [date] NULL,
+	[RequestId] [bigint] NULL,
+	[CreatedBy] [bigint] NOT NULL,
+	[CreatedOn] [datetime] NOT NULL,
+	[ModifiedBy] [bigint] NULL,
+	[ModifiedOn] [datetime] NULL
+)

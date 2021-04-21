@@ -1,0 +1,13 @@
+E:\test\Test\Framework\Test.Core\bin\Debug\netcoreapp3.1\Test.Core.deps.json
+E:\test\Test\Framework\Test.Core\bin\Debug\netcoreapp3.1\Test.Core.dll
+E:\test\Test\Framework\Test.Core\bin\Debug\netcoreapp3.1\Test.Core.pdb
+E:\test\Test\Framework\Test.Core\bin\Debug\netcoreapp3.1\Generic.Core.dll
+E:\test\Test\Framework\Test.Core\bin\Debug\netcoreapp3.1\Test.Entities.dll
+E:\test\Test\Framework\Test.Core\bin\Debug\netcoreapp3.1\Test.Entities.pdb
+E:\test\Test\Framework\Test.Core\obj\Debug\netcoreapp3.1\Test.Core.csprojAssemblyReference.cache
+E:\test\Test\Framework\Test.Core\obj\Debug\netcoreapp3.1\Test.Core.AssemblyInfoInputs.cache
+E:\test\Test\Framework\Test.Core\obj\Debug\netcoreapp3.1\Test.Core.AssemblyInfo.cs
+E:\test\Test\Framework\Test.Core\obj\Debug\netcoreapp3.1\Test.Core.csproj.CoreCompileInputs.cache
+E:\test\Test\Framework\Test.Core\obj\Debug\netcoreapp3.1\Test.Core.csproj.CopyComplete
+E:\test\Test\Framework\Test.Core\obj\Debug\netcoreapp3.1\Test.Core.dll
+E:\test\Test\Framework\Test.Core\obj\Debug\netcoreapp3.1\Test.Core.pdb
