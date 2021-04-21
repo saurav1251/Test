@@ -1,5 +1,0 @@
-{ "time": "2021-02-16 16:53:19.3392", "level": "DEBUG", "StackTrace": { "message": "User [admin@demo.com] logged in the system." } }
-{ "time": "2021-02-16 16:54:02.0986", "level": "DEBUG", "StackTrace": { "message": "User [admin@demo.com] logged in the system." } }
-{ "time": "2021-02-16 17:02:53.6876", "level": "DEBUG", "StackTrace": { "message": "User [admin@demo.com] logged in the system." } }
-{ "time": "2021-02-16 17:03:17.2589", "level": "DEBUG", "StackTrace": { "message": "User [admin@demo.com] logged in the system." } }
-{ "time": "2021-02-16 17:06:39.9405", "level": "DEBUG", "StackTrace": { "message": "User [admin@demo.com] logged in the system." } }
